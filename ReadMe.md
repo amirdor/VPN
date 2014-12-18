@@ -15,7 +15,7 @@ enter your computer password
 
 and run the file
 ```sh
-./ install.sh
+./install.sh
 ```
 this will install the snx file in your system
 **it's important to do it first!**
